@@ -1,5 +1,5 @@
 import openai as ai
-ai.api_key = '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'
+ai.api_key = 'sk-...(You openai api key)'
 
 def generate_gpt3_response(user_text, print_output=False):
     """
